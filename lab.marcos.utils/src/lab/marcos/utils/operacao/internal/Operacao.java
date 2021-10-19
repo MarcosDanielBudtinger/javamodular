@@ -1,4 +1,4 @@
-package lab.marcos.operacao;
+package lab.marcos.utils.operacao.internal;
 
 public interface Operacao {
 

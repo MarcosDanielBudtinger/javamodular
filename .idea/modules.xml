@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/javamodular.iml" filepath="$PROJECT_DIR$/javamodular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab.marcos.client-test/lab.marcos.client.test.iml" filepath="$PROJECT_DIR$/lab.marcos.client-test/lab.marcos.client.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab.marcos.core/lab.marcos.core.iml" filepath="$PROJECT_DIR$/lab.marcos.core/lab.marcos.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab.marcos.utils/lab.marcos.utils.iml" filepath="$PROJECT_DIR$/lab.marcos.utils/lab.marcos.utils.iml" />
     </modules>
   </component>
 </project>

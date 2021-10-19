@@ -1,9 +1,9 @@
-package lab.marcos.operacao;
+package lab.marcos.utils.operacao;
 
-import lab.marcos.operacao.internal.DivHelper;
-import lab.marcos.operacao.internal.MultHelper;
-import lab.marcos.operacao.internal.SubHelper;
-import lab.marcos.operacao.internal.SumHelper;
+import lab.marcos.utils.operacao.internal.DivHelper;
+import lab.marcos.utils.operacao.internal.MultHelper;
+import lab.marcos.utils.operacao.internal.SubHelper;
+import lab.marcos.utils.operacao.internal.SumHelper;
 
 public class Calculadora {
 

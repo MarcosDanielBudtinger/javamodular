@@ -1,6 +1,4 @@
-package lab.marcos.operacao.internal;
-
-import lab.marcos.operacao.Operacao;
+package lab.marcos.utils.operacao.internal;
 
 public class SumHelper implements Operacao {
 
